@@ -1,5 +1,6 @@
 package com.example.testthymeleafwebapp1.controller;
 
+import com.example.testthymeleafwebapp1.dao.StudentRepository;
 import com.example.testthymeleafwebapp1.entity.Student;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;
